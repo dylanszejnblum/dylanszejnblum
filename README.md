@@ -1,4 +1,9 @@
-### Hi there 👋
+### Quick facts 
+- 👨‍🎓 CS student @UBA 
+- 🔭  Currently working on mvpchecklist.com & polh.io
+- 🌱  Currently learning Golang
+- 🍝  Master in the art of Spaghetti code
+
 
 <!--
 **dylanszejnblum/dylanszejnblum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
