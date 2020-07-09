@@ -1,6 +1,6 @@
 ### Quick facts 
 - 👨‍🎓 CS student @UBA 
-- 🔭  Currently working on mvpchecklist.com & polh.io
+- 🔭    Working on mvpchecklist.com & polh.io as side projects
 - 🌱  Currently learning Golang
 - 🍝  Master in the art of Spaghetti code
 
