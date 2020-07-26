@@ -1,7 +1,7 @@
 ### Quick facts 
 - 👨‍🎓 CS student @UBA 
 - 🔭    Working on mvpchecklist.com & polh.io as side projects
-- 🌱  Currently learning Golang
+- 🌱  Currently learning ~Golang~  ~typescript~  ~keras~  __something__
 - 🍝  Master in the art of Spaghetti code
 
 
