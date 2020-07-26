@@ -1,4 +1,4 @@
-### Quick facts 
+### Quick trivia 
 - 👨‍🎓 CS student @UBA 
 - 🔭    Working on mvpchecklist.com & polh.io as side projects
 - 🌱  Currently learning ~Golang~  ~typescript~  ~keras~  __something__
