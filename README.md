@@ -1,7 +1,7 @@
 ### Quick trivia 
-- 👨‍🎓 CS student @UBA 
+- 👨‍🎓 CS and data science student @UBA 
 - 🔭    Working on mvpchecklist.com & polh.io as side projects
-- 🌱  Currently learning ~Golang~  ~typescript~  ~keras~  __something__
+- 🌱  Currently learning  __something__
 - 🍝  Master in the art of Spaghetti code
 
 
