@@ -1,7 +1,7 @@
 ### Quick trivia 
 - 👨‍🎓 CS and data science student @UBA 
 - 🔭    Working on mvpchecklist.com & polh.io as side projects
-- 🌱  Currently learning  __something__
+- 🌱  Currently learning about Layer 2 scaling 
 - 🍝  Master in the art of Spaghetti code
 
 
