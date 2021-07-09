@@ -1,5 +1,5 @@
 ### Quick trivia 
-- 👨‍🎓 CS student @UBA 
+- 👨‍🎓 First year CS student @UBA 
 - 🔭    Working on mvpchecklist.com & polh.io as side projects
 - 🌱  Currently learning about Layer 2 scaling 
 - 🍝  Master in the art of Spaghetti code
