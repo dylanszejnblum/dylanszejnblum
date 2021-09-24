@@ -1,5 +1,5 @@
 ### Quick trivia 
-- 🔭    Working on app.polh.io as side projects
+- 🔭    Working on app.polh.io as a side project
 - 🌱  Currently learning about Layer 2 scaling & RUST
 - 🍝  Master in the art of Spaghetti code
 
