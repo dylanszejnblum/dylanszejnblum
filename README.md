@@ -1,6 +1,6 @@
 ### Quick trivia 
-- 🔭    Working on mvpchecklist.com & polh.io as side projects
-- 🌱  Currently learning about Layer 2 scaling 
+- 🔭    Working on app.polh.io as side projects
+- 🌱  Currently learning about Layer 2 scaling & RUST
 - 🍝  Master in the art of Spaghetti code
 
 
