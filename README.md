@@ -11,6 +11,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanszejnblum&show_icons=true&theme=cobalt&count_private=true)
 
 
+
+![Most Used Languages](https://raw.githubusercontent.com/dylanszejnblum/github-stats-transparent/output/generated/languages.svg)
+
 ### Some random bad jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
