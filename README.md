@@ -12,7 +12,6 @@
 
 
 
-![Most Used Languages](https://raw.githubusercontent.com/dylanszejnblum/github-stats-transparent/output/generated/languages.svg)
 
 ### Some random bad jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
