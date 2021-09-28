@@ -1,11 +1,21 @@
 ### Quick trivia 
-- 🔭    Working on app.polh.io as a side project
-- 🌱  Currently learning about Layer 2 scaling & RUST
+- 🔭  Working on app.polh.io & Mango smart wallet as side projects
+- 🌱  Currently learning about Layer 2 , RUST and social recovery
+- 💬 Ask me about Ethereum , solidity , javascript or React
 - 🍝  Master in the art of Spaghetti code
+- 📫 How to reach me: dylan@polh.io or @dylansz_ on twitter
+   
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanszejnblum&show_icons=true&theme=cobalt&count_private=true)
+
+
+### Some random bad jokes
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanszejnblum&left_color=green&right_color=red)
 
 
 
