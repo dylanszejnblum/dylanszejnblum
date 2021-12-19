@@ -11,6 +11,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanszejnblum&show_icons=true&theme=cobalt&count_private=true)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dylanszejnblum&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 ### Some random bad jokes
@@ -36,3 +37,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=I+should+be+doing+something+productive)](https://git.io/typing-svg)
