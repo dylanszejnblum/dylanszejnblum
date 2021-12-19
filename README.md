@@ -17,6 +17,8 @@
 ### Some random bad jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=I+should+be+doing+something+productive)](https://git.io/typing-svg)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanszejnblum&left_color=green&right_color=red)
 
@@ -39,4 +41,3 @@ Here are some ideas to get you started:
 -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=I+should+be+doing+something+productive)](https://git.io/typing-svg)
