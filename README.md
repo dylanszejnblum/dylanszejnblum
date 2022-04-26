@@ -1,5 +1,5 @@
 ### Quick trivia 
-- 🔭  Working on app.polh.io & Mango smart wallet as side projects
+- 🔭  Working on Mango Social Recovery wallet.
 - 🌱  Currently learning about Layer 2 , RUST and social recovery
 - 💬 Ask me about Ethereum , solidity , javascript or React
 - 🍝  Master in the art of Spaghetti code
