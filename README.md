@@ -22,6 +22,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanszejnblum&left_color=green&right_color=red)
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=dylanszejnblum&theme=react-dark&hide_border=true&area=true)
 
 
 
