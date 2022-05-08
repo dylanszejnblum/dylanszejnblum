@@ -11,8 +11,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanszejnblum&show_icons=true&theme=cobalt&count_private=true)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dylanszejnblum&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-
 
 ### Some random bad jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -21,8 +19,6 @@
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanszejnblum&left_color=green&right_color=red)
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=dylanszejnblum&theme=react-dark&hide_border=true&area=true)
 
 
 
