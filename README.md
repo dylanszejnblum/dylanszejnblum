@@ -1,5 +1,5 @@
 ### Quick trivia 
-- 🔭  Working on Mango Social Recovery wallet.
+- 🔭  Working on Mangos Social Recovery wallet [mangos.finance](https://mangos.finance/) .
 - 🌱  Currently learning about Layer 2 , RUST and social recovery
 - 💬 Ask me about Ethereum , solidity , javascript or React
 - 🍝  Master in the art of Spaghetti code
