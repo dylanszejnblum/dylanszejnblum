@@ -1,6 +1,6 @@
 ### Quick trivia 
 - 🔭  Working on Mangos Social Recovery wallet as a side project.[mangos.finance](https://mangos.finance/)
-- 🌱  Currently learning about Layer 2 , RUST and cryptography. 
+- 🌱  Currently learning about Layer 2, openCV, RUST and cryptography. 
 - 💬 Ask me about Ethereum , solidity , javascript or React
 - 👯 I’m looking to collaborate on private key managment and smart wallets. 
 - 📫 How to reach me: dylan@polh.io or @dylansz_ on twitter
