@@ -15,10 +15,13 @@
 ### Some random bad jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=helvetica&color=%2336BCF7&center=true&vCenter=true&multiline=true&lines=I+should+be+doing+something+productive)](https://git.io/typing-svg)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dylanszejnblum&left_color=green&right_color=red)
+
 
 
 
