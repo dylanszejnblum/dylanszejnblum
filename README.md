@@ -8,7 +8,6 @@
 
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dylanszejnblum&theme=tokyonight" alt="mystreak"/>
 
 
 ### Some random bad jokes
