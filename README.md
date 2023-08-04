@@ -1,6 +1,6 @@
 ### Quick trivia 
 - 🔭  Working on Mangos Social Recovery wallet as a side project.[mangos.finance](https://mangos.finance/)
-- 🌱  Currently learning about custom signatures schemes / signature abstraction. 
+- 🌱  Currently learning about custom signatures schemes.
 - 💬 Ask me about Ethereum , solidity ,account abstraction, social recovery or React
 - 👯 I’m looking to collaborate on private key managment, account abstraction, smart wallets and payment systems. 
 - 📫 How to reach me: dylan@polh.io or @dylansz_ on twitter
