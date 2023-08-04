@@ -33,10 +33,10 @@
 
 <div align="center"  class="icons-social" style="margin-left: 10px;">
 
-<a style="margin-left: 10px;" href="https://twitter.com/dylansz_">
+<a style="margin-left: 10px;" href="https://twitter.com/dylansz_" target="_blank" >
 		<h2> On 𝕏 (Twitter) </h2>
   </a>
-<a style="margin-left: 10px;" href="https://www.dylansz.com/">
+<a style="margin-left: 10px;" href="https://www.dylansz.com/" target="_blank>
 		<h2> Website 🌐 </h2>
 </a>
 
