@@ -7,7 +7,7 @@
 
 ### Quick trivia 
 - 🔭  Working on Mangos Social Recovery wallet as a side project.[mangos.finance](https://mangos.finance/)
-- 🌱  Currently learning about custom signatures schemes.
+- 🌱  Currently learning about ERC-7555 and ERC-7556
 - 💬 Ask me about Ethereum , solidity ,account abstraction, social recovery or React
 - 👯 I’m looking to collaborate on private key managment, account abstraction, smart wallets and payment systems. 
 
