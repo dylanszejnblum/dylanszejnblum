@@ -6,7 +6,7 @@
 
 
 ### Quick trivia 
-- 🔭  Working on RWA & smart wallets 
+- 🔭  Working on Stalecoins, smart wallets and AI Agents   
 - 🌱  Currently learning about ERC-7555 and ERC-7556
 - 💬 Ask me about Ethereum , solidity ,account abstraction, social recovery or React
 - 👯 I’m looking to collaborate on private key managment, account abstraction, smart wallets and payment systems. 
